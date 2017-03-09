@@ -1,3 +1,6 @@
+// Kuciel, Victor 33%
+// Lampert, Jake 33%
+// Martel, Lorna 34%
 package pkgPokerBLL;
 
 import java.util.Comparator;
